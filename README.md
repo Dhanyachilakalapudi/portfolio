@@ -1,16 +1,85 @@
-# React + Vite
+# 🚀 Dhanya's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi 👋 I'm **Dhanya**, an aspiring **AI Developer & Full-Stack Developer** passionate about building intelligent systems and modern web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+https://vercel.com/dhanyachilakalapudis-projects/dhanya-portfolio
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 About This Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is my personal portfolio website built using:
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- ⚡ Vite
+
+It showcases my skills, projects, and contact information in a clean and responsive design.
+
+---
+
+## 🧠 Features
+
+- Responsive UI (Mobile + Desktop)
+- Modern clean design
+- Projects section with GitHub links
+- Resume download/view option
+- Fast performance with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Vite
+
+---
+
+## 📂 Projects Included
+
+### 1. Smart Support Environment
+AI-powered support system with automated query handling.  
+🔗 https://github.com/Dhanyachilakalapudi/smart-support-env
+
+### 2. AI Chat Assistant
+Intelligent chatbot for customer support automation.  
+🔗 https://github.com/Dhanyachilakalapudi/smart-ai-support-centers
+
+### 3. Portfolio Website
+Personal portfolio built with React and Tailwind CSS.
+
+---
+
+## 📄 Resume
+
+👉 Available in the portfolio website (View Resume button)
+
+---
+
+## 📬 Contact
+
+- 📧 Email: dhanyachilakalapudi10@gmail.com  
+- 💻 GitHub: https://github.com/Dhanyachilakalapudi
+
+---
+
+## ⭐ Future Improvements
+
+- Dark/Light theme toggle
+- Animations with Framer Motion
+- Blog section
+- Advanced AI projects integration
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks for visiting my portfolio 🚀
